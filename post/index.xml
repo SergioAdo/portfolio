@@ -8,58 +8,91 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://sergioado.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Deep Learning: Classifieur de races de chiens</title>
+      <title>Projet 1: Classifieur de races de chiens (Deep Learning)</title>
       <link>https://sergioado.github.io/portfolio/post/project1/</link>
-      <pubDate>Thu, 09 Jul 2020 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project1/</guid>
       <description>J&amp;rsquo;ai cree un outil de detection de race de chien avec un taux d&amp;rsquo;erreur d&amp;rsquo;environ 14% Le langage Python a ete utilise pour la creation du modele sous fastai Le dataset des images de chiens provient de la platforme Kaggle Transfer Learning utilise avec comme architecture ResNet34 L&#39; API a ete fait avec Render    Lien du repo GitHub</description>
     </item>
     
     <item>
-      <title>Chapter VI: Esmeralda</title>
-      <link>https://sergioado.github.io/portfolio/post/project6/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://sergioado.github.io/portfolio/post/project6/</guid>
-      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
-    </item>
-    
-    <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://sergioado.github.io/portfolio/post/project5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://sergioado.github.io/portfolio/post/project5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
-    </item>
-    
-    <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://sergioado.github.io/portfolio/post/project4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://sergioado.github.io/portfolio/post/project4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
-    </item>
-    
-    <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://sergioado.github.io/portfolio/post/project3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://sergioado.github.io/portfolio/post/project3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
-    </item>
-    
-    <item>
-      <title>Chapter II: Pierre Gringoire</title>
+      <title>Projet 2: Chicago Crime Rate (Time Series)</title>
       <link>https://sergioado.github.io/portfolio/post/project2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project2/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+      <description>Prediction du nombre de crime a Chicago L&amp;rsquo;analyse s&amp;rsquo;est faite en recuperant les chiffres de 2005 a 2017 Le dataset peut etre telecharge sur l&amp;rsquo;adresse suivante La prediction a pu se faire grace a l&amp;rsquo;outil Prophet cree par Facebook      Lien du repo GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projet 3: WWE (Data Analysis/Sport Analytics)</title>
+      <link>https://sergioado.github.io/portfolio/post/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergioado.github.io/portfolio/post/project3/</guid>
+      <description>WWE (World Wrestling Entertainmnent) is the largest professional wrestling promotion in the world. It has promoted some of the most successful wrestlers and storylines, and featured some of the most iconic and significant matches and moments in the history of sports entertainment. WWE currently airs several high-profile programs such as Raw and SmackDown in more than 150 countries, hosts 12 pay-per-view events a year including WrestleMania, and holds approximately 320 live events a year throughout the world.</description>
+    </item>
+    
+    <item>
+      <title>Projet 4: Prix de voiture (Machine Learning -Regression-)</title>
+      <link>https://sergioado.github.io/portfolio/post/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergioado.github.io/portfolio/post/project4/</guid>
+      <description>Plusieurs modeles construits grace a la librairie Pycaret L&amp;rsquo;algorithme Random Forest est celui qui a ete retenu au final RMSE : 2176 R2 : 0.88 Web app fait avec Streamlit    Link to GitHub Repo</description>
+    </item>
+    
+    <item>
+      <title>Projet 5: Attrition des employes (Machine Learning -Classification-)</title>
+      <link>https://sergioado.github.io/portfolio/post/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergioado.github.io/portfolio/post/project5/</guid>
+      <description>Modele de classification binaire construit a partir d&amp;rsquo;un dataset provenant de Pycaret Modele cree sur la base de 14249 personnes (10863 restees et 3386 parties) Accuracy : 0.9872 F1 - score: 0.9727 Application creee sur Streamlit    Lien du repo GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projet 6: Maladies cardiaques (Machine Learning &amp; Deep Learning -Classification-) </title>
+      <link>https://sergioado.github.io/portfolio/post/project6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergioado.github.io/portfolio/post/project6/</guid>
+      <description>Modeles crees manuellement avec scikit-learn, tensorflow et automatiquement avec pycaret Application developpee sous Flask et deployee sur Heroku Dataset d&amp;rsquo;environ 1200 patients AUC = 0.953 F1 - score = 0.923 Accuracy = 0.913    Lien du repo GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projet 7: Boxe ( Data Analysis/Sport Analytics)</title>
+      <link>https://sergioado.github.io/portfolio/post/project7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergioado.github.io/portfolio/post/project7/</guid>
+      <description>Voici ici quelques chiffres et records des meilleurs boxeurs de l&amp;rsquo;histoire de la boxe.
+Tous les graphiques et dashboard sont visibles dans le fichier pdf sur le repo
+  Lien du repo GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projet 8: Championnat Allemand de Football (Data Analysis/ Sport Analytics) </title>
+      <link>https://sergioado.github.io/portfolio/post/project8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergioado.github.io/portfolio/post/project8/</guid>
+      <description>Ce projet est une analyse explorative de donnees du championnat allemand de football depuis 1963. Les donnees sont issues de 57 pages de wikipedia. Chaque page correspondant au classement final de chaque saison. J&amp;rsquo;ai pu extraire ces donnees grace a un outil open source de web scraping: ParseHub.
+    Lien du repo GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projet 9: BBC news (NLP) </title>
+      <link>https://sergioado.github.io/portfolio/post/project9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergioado.github.io/portfolio/post/project9/</guid>
+      <description>Je me suis inspire d&amp;rsquo;un tutoriel sur la classification de vrais mails et spams avec Pytorch, pour realiser ce projet sur des articles de presse de la BBC.
+5 categories a detecter:
+0: Business 1: Entertainment 2: Politics
+3: Sport 4: Tech
+  Lien du repo GitHub</description>
     </item>
     
   </channel>
