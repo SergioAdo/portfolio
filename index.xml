@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science Portfolio on Serge ADOMAYAKPO</title>
+    <title>Data Science Portfolio on Serge ADOMAYAKPO Portfolio</title>
     <link>https://sergioado.github.io/portfolio/</link>
-    <description>Recent content in Data Science Portfolio on Serge ADOMAYAKPO</description>
+    <description>Recent content in Data Science Portfolio on Serge ADOMAYAKPO Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://sergioado.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project1/</guid>
-      <description>J&amp;rsquo;ai cree un outil de detection de race de chien avec un taux d&amp;rsquo;erreur d&amp;rsquo;environ 14% Le langage Python a ete utilise pour la creation du modele sous fastai Le dataset des images de chiens provient de la platforme Kaggle Transfer Learning utilise avec comme architecture ResNet34 L&#39; API a ete fait avec Render    Lien du repo GitHub</description>
+      <description>J&amp;rsquo;ai créé un outil de détection de race de chien avec un taux d&amp;rsquo;erreur d&amp;rsquo;environ 14% Le langage Python a été utilisé pour la création du modèle sous fastai Le dataset des images de chiens provient de la platforme Kaggle Transfer Learning utilisé avec comme architecture ResNet34 L&#39; API a été faite avec Render    Tester la Web App
+Lien du repo GitHub</description>
     </item>
     
     <item>
@@ -32,7 +33,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project2/</guid>
-      <description>Prediction du nombre de crime a Chicago L&amp;rsquo;analyse s&amp;rsquo;est faite en recuperant les chiffres de 2005 a 2017 Le dataset peut etre telecharge sur l&amp;rsquo;adresse suivante La prediction a pu se faire grace a l&amp;rsquo;outil Prophet cree par Facebook      Lien du repo GitHub</description>
+      <description>Prédiction du nombre de crime à Chicago L&amp;rsquo;analyse s&amp;rsquo;est faite en récupérant les chiffres de 2005 à 2017 Le dataset peut être télechargé à l&amp;rsquo;adresse suivante La prédiction a pu se faire grâce à l&amp;rsquo;outil Prophet créé par Facebook      Lien du repo GitHub</description>
     </item>
     
     <item>
@@ -50,16 +51,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project4/</guid>
-      <description>Plusieurs modeles construits grace a la librairie Pycaret L&amp;rsquo;algorithme Random Forest est celui qui a ete retenu au final RMSE : 2176 R2 : 0.88 Web app fait avec Streamlit    Link to GitHub Repo</description>
+      <description>Plusieurs modèles construits grâce à la librairie Pycaret L&amp;rsquo;algorithme Random Forest est celui qui a été retenu au final RMSE : 2176 R2 : 0.88 Web app faite avec Streamlit    Link to GitHub Repo</description>
     </item>
     
     <item>
-      <title>Projet 5: Attrition des employes (Machine Learning -Classification-)</title>
+      <title>Projet 5: Attrition des employés (Machine Learning -Classification-)</title>
       <link>https://sergioado.github.io/portfolio/post/project5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project5/</guid>
-      <description>Modele de classification binaire construit a partir d&amp;rsquo;un dataset provenant de Pycaret Modele cree sur la base de 14249 personnes (10863 restees et 3386 parties) Accuracy : 0.9872 F1 - score: 0.9727 Application creee sur Streamlit    Lien du repo GitHub</description>
+      <description>Modèle de classification binaire construit à partir d&amp;rsquo;un dataset provenant de Pycaret Modèle créé sur la base de 14249 personnes (10863 restées et 3386 parties) Accuracy : 0.9872 F1 - score: 0.9727 Application créée sur Streamlit    Lien du repo GitHub</description>
     </item>
     
     <item>
@@ -68,7 +69,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project6/</guid>
-      <description>Modeles crees manuellement avec scikit-learn, tensorflow et automatiquement avec pycaret Application developpee sous Flask et deployee sur Heroku Dataset d&amp;rsquo;environ 1200 patients AUC = 0.953 F1 - score = 0.923 Accuracy = 0.913    Lien du repo GitHub</description>
+      <description>Modèles créés manuellement avec scikit-learn, tensorflow et automatiquement avec pycaret Application développée sous Flask et déployée sur Heroku Dataset d&amp;rsquo;environ 1200 patients AUC = 0.953 F1 - score = 0.923 Accuracy = 0.913    Tester la Web App
+Lien du repo GitHub</description>
     </item>
     
     <item>
@@ -78,7 +80,7 @@
       
       <guid>https://sergioado.github.io/portfolio/post/project7/</guid>
       <description>Voici ici quelques chiffres et records des meilleurs boxeurs de l&amp;rsquo;histoire de la boxe.
-Tous les graphiques et dashboard sont visibles dans le fichier pdf sur le repo
+Tous les graphiques et dashboards sont visibles dans le fichier pdf sur le repo
   Lien du repo GitHub</description>
     </item>
     
@@ -88,8 +90,8 @@ Tous les graphiques et dashboard sont visibles dans le fichier pdf sur le repo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project8/</guid>
-      <description>Ce projet est une analyse explorative de donnees du championnat allemand de football depuis 1963. Les donnees sont issues de 57 pages de wikipedia. Chaque page correspondant au classement final de chaque saison. J&amp;rsquo;ai pu extraire ces donnees grace a un outil open source de web scraping: ParseHub.
-    Lien du repo GitHub</description>
+      <description>Ce projet est une analyse explorative de données du championnat allemand de football depuis 1963. Les données sont issues de 57 pages de wikipedia. Chaque page correspondant au classement final de chaque saison. J&amp;rsquo;ai pu extraire ces données grâce à un outil open source de web scraping: ParseHub.
+    Présentation</description>
     </item>
     
     <item>
@@ -98,8 +100,8 @@ Tous les graphiques et dashboard sont visibles dans le fichier pdf sur le repo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project9/</guid>
-      <description>Je me suis inspire d&amp;rsquo;un tutoriel sur la classification de vrais mails et spams avec Pytorch, pour realiser ce projet sur des articles de presse de la BBC.
-5 categories a detecter:
+      <description>Je me suis inspiré d&amp;rsquo;un tutoriel sur la classification de vrais mails et spams avec Pytorch, pour réaliser ce projet sur des articles de presse de la BBC.
+5 categories à détecter:
 0: Business 1: Entertainment 2: Politics
 3: Sport 4: Tech
   Lien du repo GitHub</description>
