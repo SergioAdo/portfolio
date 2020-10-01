@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Projet 3: WWE (Data Analysis/Sport Analytics) | Serge ADOMAYAKPO Portfolio</title>
+    <title>Projet 3: Chicago Crime Rate (Time Series) | Serge ADOMAYAKPO Portfolio</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="generator" content="Hugo 0.75.0" />
     
@@ -26,22 +26,24 @@
 
     
     
-    <meta property="og:title" content="Projet 3: WWE (Data Analysis/Sport Analytics)" />
-<meta property="og:description" content="Analaysis of the last 3 decades of the World Wrestling Entertainment" />
+    <meta property="og:title" content="Projet 3: Chicago Crime Rate (Time Series)" />
+<meta property="og:description" content="Prédiction du nombre de crime dans la ville surnommée &#39;Heart of America&#39;" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://sergioado.github.io/portfolio/post/project3/" />
-
-<meta itemprop="name" content="Projet 3: WWE (Data Analysis/Sport Analytics)">
-<meta itemprop="description" content="Analaysis of the last 3 decades of the World Wrestling Entertainment">
-
-<meta itemprop="wordCount" content="114">
+<meta property="article:published_time" content="2020-09-10T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-09-10T00:00:00+00:00" />
+<meta itemprop="name" content="Projet 3: Chicago Crime Rate (Time Series)">
+<meta itemprop="description" content="Prédiction du nombre de crime dans la ville surnommée &#39;Heart of America&#39;">
+<meta itemprop="datePublished" content="2020-09-10T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2020-09-10T00:00:00+00:00" />
+<meta itemprop="wordCount" content="42">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Projet 3: WWE (Data Analysis/Sport Analytics)"/>
-<meta name="twitter:description" content="Analaysis of the last 3 decades of the World Wrestling Entertainment"/>
+<meta name="twitter:title" content="Projet 3: Chicago Crime Rate (Time Series)"/>
+<meta name="twitter:description" content="Prédiction du nombre de crime dans la ville surnommée &#39;Heart of America&#39;"/>
 
 	
   </head>
@@ -54,7 +56,7 @@
 
   
   
-  <header class="cover bg-top" style="background-image: url('https://images.unsplash.com/photo-1488159452192-8770f4f4f7ce?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=600&amp;q=60');">
+  <header class="cover bg-top" style="background-image: url('https://images.unsplash.com/photo-1477414956199-7dafc86a4f1a?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=600&amp;q=60');">
     <div class="pb3-m pb6-l bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -131,10 +133,10 @@
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Projet 3: WWE (Data Analysis/Sport Analytics)</h1>
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Projet 3: Chicago Crime Rate (Time Series)</h1>
           
             <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-              Analaysis of the last 3 decades of the World Wrestling Entertainment
+              Prédiction du nombre de crime dans la ville surnommée &#39;Heart of America&#39;
             </h2>
           
         
@@ -168,13 +170,13 @@
 
     
     
-    <a href="https://twitter.com/share?url=https://sergioado.github.io/portfolio/post/project3/&amp;text=Projet%203:%20WWE%20%28Data%20Analysis/Sport%20Analytics%29" class="twitter no-underline" aria-label="share on Twitter">
+    <a href="https://twitter.com/share?url=https://sergioado.github.io/portfolio/post/project3/&amp;text=Projet%203:%20Chicago%20Crime%20Rate%20%28Time%20Series%29" class="twitter no-underline" aria-label="share on Twitter">
       <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
 
     </a>
 
     
-    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sergioado.github.io/portfolio/post/project3/&amp;title=Projet%203:%20WWE%20%28Data%20Analysis/Sport%20Analytics%29" class="linkedin no-underline" aria-label="share on LinkedIn">
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://sergioado.github.io/portfolio/post/project3/&amp;title=Projet%203:%20Chicago%20Crime%20Rate%20%28Time%20Series%29" class="linkedin no-underline" aria-label="share on LinkedIn">
       <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
 </svg>
@@ -183,21 +185,29 @@
   </div>
 
 
-      <h1 class="f1 athelas mt3 mb1">Projet 3: WWE (Data Analysis/Sport Analytics)</h1>
+      <h1 class="f1 athelas mt3 mb1">Projet 3: Chicago Crime Rate (Time Series)</h1>
       
       
-      <time class="f6 mv4 dib tracked" datetime="0001-01-01T00:00:00Z">January 1, 0001</time>
+      <time class="f6 mv4 dib tracked" datetime="2020-09-10T00:00:00Z">September 10, 2020</time>
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>WWE (World Wrestling Entertainmnent) is the largest professional wrestling promotion in the world. It has promoted some of the most successful wrestlers and storylines, and featured some of the most iconic and significant matches and moments in the history of sports entertainment. WWE currently airs several high-profile programs such as Raw and SmackDown in more than 150 countries, hosts 12 pay-per-view events a year including WrestleMania, and holds approximately 320 live events a year throughout the world.</p>
-<p>I was able to scrape the win/loss records of the top 100 superstars who had the most matches, every year since 1989 thanks to the open source tool ParseHub. The data was taken from this <a href="https://www.cagematch.net/?id=8&amp;nr=1&amp;page=17&amp;year=1989">website.</a></p>
-<figure>
-    <img src="https://sergioado.github.io/portfolio/images/wwestats.png"/> 
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><ul>
+<li>Prédiction du nombre de crime à Chicago</li>
+<li>L&rsquo;analyse s&rsquo;est faite en récupérant les chiffres de 2005 à 2017</li>
+<li>Le dataset peut être télechargé à l&rsquo;adresse <a href="https://www.kaggle.com/currie32/crimes-in-chicago">suivante</a></li>
+<li>La prédiction a pu se faire grâce à l&rsquo;outil Prophet créé par Facebook</li>
+</ul>
+<p><figure>
+    <img src="https://sergioado.github.io/portfolio/images/chicago-type.png" width="100" height="500"/> 
 </figure>
 
-<p><a href="https://github.com/SergioAdo/WWE-stats/blob/master/wwe-analysis.ipynb">Présentation</a></p>
+<figure>
+    <img src="https://sergioado.github.io/portfolio/images/chicago-crime.png" width="300" height="500"/> 
+</figure>
+</p>
+<p><a href="https://github.com/SergioAdo/chicago_crime_rate_with_FBProphet/blob/master/chicago_crime_rate.ipynb">Lien du notebook</a></p>
 <ul class="pa0">
   
 </ul>
