@@ -13,12 +13,12 @@
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project1/</guid>
-      <description>J&amp;rsquo;ai créé un outil de détection de race de chien avec un taux d&amp;rsquo;erreur d&amp;rsquo;environ 14% Le langage Python a été utilisé pour la création du modèle sous fastai Le dataset des images de chiens provient de la platforme Kaggle Transfer Learning utilisé avec comme architecture ResNet34 L&#39; API a été faite avec Render    Tester la Web App
+      <description>J&amp;rsquo;ai créé un outil de détection de race de chien avec un taux d&amp;rsquo;erreur d&amp;rsquo;environ 14%. Le langage Python a été utilisé pour la création du modèle sous fastai. Le dataset des images de chiens provient de la platforme Kaggle. Transfer Learning utilisé avec comme architecture ResNet34. L&#39; API a été faite avec Render.    Tester la Web App
 Lien du notebook</description>
     </item>
     
     <item>
-      <title>Projet 2: WWE (Data Analysis/Sport Analytics)</title>
+      <title>Projet 2: WWE (Data Analysis/Sport Analytics) (English)</title>
       <link>https://sergioado.github.io/portfolio/post/project2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
@@ -27,12 +27,12 @@ Lien du notebook</description>
     </item>
     
     <item>
-      <title>Projet 3: Chicago Crime Rate (Time Series)</title>
+      <title>Projet 3: Criminalité à Chicago (Time Series)</title>
       <link>https://sergioado.github.io/portfolio/post/project3/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project3/</guid>
-      <description>Prédiction du nombre de crime à Chicago L&amp;rsquo;analyse s&amp;rsquo;est faite en récupérant les chiffres de 2005 à 2017 Le dataset peut être télechargé à l&amp;rsquo;adresse suivante La prédiction a pu se faire grâce à l&amp;rsquo;outil Prophet créé par Facebook      Lien du notebook</description>
+      <description>Prédiction du nombre de crimes à Chicago L&amp;rsquo;analyse s&amp;rsquo;est faite en récupérant les chiffres de 2005 à 2017 Le dataset peut être télechargé à l&amp;rsquo;adresse suivante La prédiction a pu se faire grâce à l&amp;rsquo;outil Prophet créé par Facebook      Lien du notebook</description>
     </item>
     
     <item>
@@ -56,12 +56,12 @@ J&amp;rsquo;ai donc un modèle de prediction de prix de voitures avec les caract
     </item>
     
     <item>
-      <title>Projet 6: Championnat Allemand de Football (Data Analysis/ Sport Analytics) </title>
+      <title>Projet 6: German Football League (Data Analysis/ Sport Analytics) (English) </title>
       <link>https://sergioado.github.io/portfolio/post/project6/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sergioado.github.io/portfolio/post/project6/</guid>
-      <description>Ce projet est une analyse explorative de données du championnat allemand de football depuis 1963. Les données sont issues de 57 pages de wikipedia. Chaque page correspondant au classement final de chaque saison. J&amp;rsquo;ai pu extraire ces données grâce à un outil open source de web scraping: ParseHub.
+      <description>This is an exploratory data analysis of the German Football League (Bundesliga) since 1963. The dataset was extracted from 57 wikipedia pages. Each page was corresponding to one season&amp;rsquo;s details, and was scraped with the open source tool: ParseHub
     Présentation</description>
     </item>
     
@@ -106,7 +106,7 @@ Lien du repo GitHub</description>
       
       <guid>https://sergioado.github.io/portfolio/contact/</guid>
       <description>Vous pouvez me joindre sur les platformes suivantes:
-   Platforme Lien     Gmail sergeadomayakpo@gmail.com   LinkedIn https://www.linkedin.com/in/serge-adomayakpo-94664919/   GitHub https://github.com/SergioAdo    </description>
+   Platforme      Gmail sergeadomayakpo@gmail.com   LinkedIn https://www.linkedin.com/in/serge-adomayakpo-94664919/   GitHub https://github.com/SergioAdo    </description>
     </item>
     
   </channel>
